@@ -12,5 +12,5 @@ npx tsc
 
 ## Run
 ```bash
-node build/index.js
+node build/main.js
 ```
